@@ -2,8 +2,6 @@
 
 A clean, minimal, and fun Rock Paper Scissors web game built with Django. Features both manual play and autoplay modes with comprehensive statistics tracking.
 
-![Game Preview](game_preview.png)
-
 ## Features
 
 - 🎮 **Manual Play Mode**: Play against the computer

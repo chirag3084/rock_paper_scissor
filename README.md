@@ -314,4 +314,4 @@ Created as a beginner-friendly Django project for learning web development.
 
 ---
 
-**Happy Gaming! 🎮**
+**Happy Gaming! **
